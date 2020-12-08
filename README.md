@@ -1,1 +1,2 @@
-# node-tests-tdd-bdd
+# Projeto para estudo das boas prática de testes 
+
